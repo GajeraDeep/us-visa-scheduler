@@ -1,0 +1,16 @@
+users:
+  - username: youremail@gmail.com
+    password: "your-password"
+    # you can find id from date selecting URL
+    # Example: https://ais.usvisa-info.com/en-ca/niv/schedule/12345678/appointment
+    # Here 12345678 is the id
+    schedule_id: 12345678
+    period_start: 2024-11-01
+    period_end: 2024-12-31
+    embassy: en-ca-tor
+  - username: sencond2@gmail.com
+    password: "second-password"
+    schedule_id: 12345678
+    period_start: 2024-11-01
+    period_end: 2024-12-31
+    embassy: en-ca-tor
